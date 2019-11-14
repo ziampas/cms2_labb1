@@ -1,0 +1,31 @@
+label {
+display: block;
+}
+
+input[type=text] {
+    width: 80%;
+}
+
+textarea {
+    width: 80%;
+    height: 200px;
+}
+
+input[type=submit] {
+    background-color: #757575;
+    border: none;
+    color: white;
+    padding: 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+input[type=email] {
+    width: 80%;
+}
+
+.emf-success {
+    color: #4BB543;
+}
